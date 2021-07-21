@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\pdyatlov\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\pdyatlov\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_AngryBots 2.-1744329336.00" t="ExcludeRecursive" />
+    <e p="D:\DOTS\AngryBots 2019.3 - Learner\AngryBots 2" t="IncludeRecursive">
+      <e p="AngryBots 2.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="0 - START HERE" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="BulletImpactPool.cs" t="Include" />
+            <e p="EnemyBehaviour.cs" t="Include" />
+            <e p="EnemySpawner.cs" t="Include" />
+            <e p="PlayerMovementAndLook.cs" t="Include" />
+            <e p="PlayerShooting.cs" t="Include" />
+            <e p="ProjectileBehaviour.cs" t="Include" />
+            <e p="RemoveDeadSystem.cs" t="Include" />
+            <e p="Settings.cs" t="Include" />
+            <e p="UbisoftCollisionSystemTwoQueries.cs" t="Include" />
+            <e p="UbisoftEnemyTag.cs" t="Include" />
+            <e p="UbisoftHealth.cs" t="Include" />
+            <e p="UbisoftLiveSystem.cs" t="Include" />
+            <e p="UbisoftLookAtPlayerSystem.cs" t="Include" />
+            <e p="UbisoftMoveForwardTag.cs" t="Include" />
+            <e p="UbisoftMoveSpeed.cs" t="Include" />
+            <e p="UbisoftMoveSystem.cs" t="Include" />
+            <e p="UbisoftPlayerMoveSystem.cs" t="Include" />
+            <e p="UbisoftPlayerTag.cs" t="Include" />
+            <e p="UbisoftTimeToLive.cs" t="Include" />
+          </e>
+        </e>
+        <e p="1 - Spawning" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="EnemySpawnerECS.cs" t="Include" />
+            <e p="PlayerShootingECS.cs" t="Include" />
+          </e>
+        </e>
+        <e p="10 - Extras" t="Include">
+          <e p="ApplyVelocityParallelForSample.cs" t="Include" />
+          <e p="CollisionSystemChunks.cs" t="Include" />
+        </e>
+        <e p="2 - Movement" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="MoveForwardComponent.cs" t="Include" />
+            <e p="MoveForwardSystem.cs" t="Include" />
+            <e p="MoveSpeedComponent.cs" t="Include" />
+          </e>
+        </e>
+        <e p="3 - Rotation" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="EnemyTagComponent.cs" t="Include" />
+            <e p="TurnTowardsPlayerSystem.cs" t="Include" />
+          </e>
+        </e>
+        <e p="4 - Timed Destroy" t="Include">
+          <e p="Examples" t="Include">
+            <e p="TestDestroy.cs" t="Include" />
+            <e p="TestDestroySystem.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="TimedDestroySystem.cs" t="Include" />
+            <e p="TimeToLiveComponent.cs" t="Include" />
+          </e>
+        </e>
+        <e p="5 - Player Position Sync" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="PlayerTagComponent.cs" t="Include" />
+            <e p="PlayerTransformUpdateSystem.cs" t="Include" />
+          </e>
+        </e>
+        <e p="6 - Health System" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="HealthComponent.cs" t="Include" />
+            <e p="RemoveDeadSystem.cs" t="Include" />
+          </e>
+        </e>
+        <e p="7 - Player Damages Enemies" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="CollisionSystem.cs" t="Include" />
+          </e>
+        </e>
+        <e p="8 - Enemies Damage Players" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="CollisionSystemTwoQueries.cs" t="Include" />
+          </e>
+        </e>
+        <e p="9 - Bullets Damages Enemies" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="CollisionSystemFinal.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
